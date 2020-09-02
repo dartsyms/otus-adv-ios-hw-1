@@ -13,7 +13,6 @@ struct ContentView: View {
     let catalog = Bundle.main.decode([Catalog].self, from: "mockdata.json")
     
     @Binding var selectedItem: Item
-    @State private var isLinkActive = false
     
     var body: some View {
         NavigationView {
