@@ -1,0 +1,632 @@
+[
+   {
+      "id":1,
+      "folder":"series",
+      "items":[
+         {
+            "id":2,
+            "price":18,
+            "title":"Supernatural",
+            "year":"2005–2020",
+            "rated":"TV-14",
+            "released":"13 Sep 2005",
+            "runtime":"44 min",
+            "genre":[
+               "Drama",
+               "Fantasy",
+               "Horror",
+               "Mystery",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Eric Kripke",
+            "actors":"Jared Padalecki, Jensen Ackles, Misha Collins",
+            "plot":"This television drama is about the two Winchester brothers, Sam and Dean, who were raised by their father, John, to hunt and kill all things that go bump in the night after his wife, Mary, was murdered by an evil supernatural being when the boys were young."
+         },
+         {
+            "id":3,
+            "price":16,
+            "title":"Game of Thrones",
+            "year":"2011–2019",
+            "rated":"TV-MA",
+            "released":"17 Apr 2011",
+            "runtime":"57 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Drama",
+               "Fantasy",
+               "Romance"
+            ],
+            "director":"NA",
+            "writer":"David Benioff, D.B. Weiss",
+            "actors":"Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington",
+            "plot":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms."
+         },
+         {
+            "id":4,
+            "price":28,
+            "title":"The Umbrella Academy",
+            "year":"2019–",
+            "rated":"TV-14",
+            "released":"15 Feb 2019",
+            "runtime":"60 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Comedy",
+               "Drama",
+               "Fantasy",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Steve Blackman, Jeremy Slater",
+            "actors":"Ellen Page, Tom Hopper, David Castañeda, Emmy Raver-Lampman",
+            "plot":"A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+         },
+         {
+            "id":6,
+            "price":32,
+            "title":"Agents of S.H.I.E.L.D.",
+            "year":"2013–2020",
+            "rated":"TV-PG",
+            "released":"24 Sep 2013",
+            "runtime":"45 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Drama",
+               "Sci-Fi",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Maurissa Tancharoen, Jed Whedon, Joss Whedon",
+            "actors":"Clark Gregg, Ming-Na Wen, Chloe Bennet, Elizabeth Henstridge",
+            "plot":"After the Battle of New York, the world has changed. It now knows not only about the Avengers, but also the powerful menaces that require those superheroes and more to face them."
+         },
+         {
+            "id":7,
+            "price":10,
+            "title":"Heroes",
+            "year":"2006–2010",
+            "rated":"TV-14",
+            "released":"25 Sep 2006",
+            "runtime":"45 min",
+            "genre":[
+               "Drama",
+               "Fantasy",
+               "Sci-Fi",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Tim Kring",
+            "actors":"Jack Coleman, Hayden Panettiere, Milo Ventimiglia, Masi Oka",
+            "plot":"People all over the US start to realize they have special abilities, like telekinesis, healing abilities, flying powers, time travel, invisibility, and the ability to absorb others abilities."
+         },
+         {
+            "id":8,
+            "price":14,
+            "title":"Arrow",
+            "year":"2012–2020",
+            "rated":"TV-14",
+            "released":"10 Oct 2012",
+            "runtime":"42 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Crime",
+               "Drama",
+               "Mystery",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Greg Berlanti, Marc Guggenheim, Andrew Kreisberg",
+            "actors":"David Ramsey, Stephen Amell, Emily Bett Rickards, Katie Cassidy",
+            "plot":"Oliver Queen and his father are lost at sea when their luxury yacht sinks, apparently in a storm. His father dies, but Oliver survives for five years on an uncharted island and eventually returns home."
+         },
+         {
+            "id":9,
+            "price":24,
+            "title":"Hemlock Grove",
+            "year":"2013–2015",
+            "rated":"TV-MA",
+            "released":"19 Apr 2013",
+            "runtime":"46 min",
+            "genre":[
+               "Drama",
+               "Horror",
+               "Mystery",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Brian McGreevy, Lee Shipman",
+            "actors":"Famke Janssen, Bill Skarsgard, Landon Liboiron, Joel de la Fuente",
+            "plot":"Secrets are just part of daily life in the small Pennsylvania town of Hemlock Grove,where the darkest evils hide in plain sight."
+         },
+         {
+            "id":10,
+            "price":14,
+            "title":"Doctor Who",
+            "year":"2005–",
+            "rated":"TV-PG",
+            "released":"17 Mar 2006",
+            "runtime":"45 min",
+            "genre":[
+               "Adventure",
+               "Drama",
+               "Family",
+               "Mystery",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Sydney Newman",
+            "actors":"Matt Smith, David Tennant, Peter Capaldi, Nicholas Briggs",
+            "plot":"The Doctor, from a race called the Time Lords (Ladies) whose home planet is Gallifrey, travels through time and space in his (her) ship the TARDIS (an acronym for Time and Relative Dimension In Space) with numerous companions. From time to time he(she) regenerates into a new form (which is how the series has been running since 1963)."
+         },
+         {
+            "id":11,
+            "price":23,
+            "title":"Stranger Things",
+            "year":"2016–",
+            "rated":"TV-14",
+            "released":"15 Jul 2016",
+            "runtime":"51 min",
+            "genre":[
+               "Drama",
+               "Fantasy",
+               "Horror",
+               "Mystery",
+               "Sci-Fi",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Matt Duffer, Ross Duffer",
+            "actors":"Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown",
+            "plot":"In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child - which begins to tear at the fabric of an otherwise peaceful community."
+         },
+         {
+            "id":12,
+            "price":34,
+            "title":"Person of Interest",
+            "year":"2011–2016",
+            "rated":"TV-14",
+            "released":"22 Sep 2011",
+            "runtime":"43 min",
+            "genre":[
+               "Action",
+               "Crime",
+               "Drama",
+               "Mystery",
+               "Sci-Fi",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Jonathan Nolan",
+            "actors":"Jim Caviezel, Kevin Chapman, Michael Emerson, Amy Acker",
+            "plot":"A billionaire software-genius named Harold Finch creates a Machine for the government that is designed to detect acts of terror before they can happen, by monitoring the entire world through every cell-phone, email and surveillance camera."
+         },
+         {
+            "id":13,
+            "price":12,
+            "title":"American Horror Story",
+            "year":"2011–",
+            "rated":"TV-MA",
+            "released":"05 Oct 2011",
+            "runtime":"60 min",
+            "genre":[
+               "Drama",
+               "Horror",
+               "Thriller"
+            ],
+            "director":"NA",
+            "writer":"Brad Falchuk, Ryan Murphy",
+            "actors":"Evan Peters, Sarah Paulson, Denis O'Hare, Kathy Bates",
+            "plot":"Both physical and psychological horrors affect a decomposing family, workers and residents of an insane asylum, a coven of witches, a cast of circus freaks, and the employees and guests at a struggling hotel in this haunting anthology series, focusing on the themes of infidelity, sanity, oppression, discrimination, addiction, and exploitation."
+         },
+         {
+            "id":14,
+            "price":23,
+            "title":"Britannia",
+            "year":"2017–",
+            "rated":"TV-MA",
+            "released":"26 Jan 2018",
+            "runtime":"60 min",
+            "genre":[
+               "Action",
+               "Drama",
+               "Fantasy"
+            ],
+            "director":"N/A",
+            "writer":"Jez Butterworth, Tom Butterworth, James Richardson",
+            "actors":"Mackenzie Crook, David Morrissey, Nikolaj Lie Kaas, Eleanor Worthington-Cox",
+            "plot":"Britannia is a drama set in 43AD as the Roman Imperial Army - determined and terrified in equal measure - returns to crush the Celtic heart of Britannia - a mysterious land ruled by warrior women and powerful druids who can channel the powerful forces of the underworld. Or so they say."
+         }
+      ]
+   },
+   {
+      "id":15,
+      "folder":"movie",
+      "items":[
+         {
+            "id":36,
+            "price":18,
+            "title":"Back to the Future",
+            "year":"1985",
+            "rated":"PG",
+            "released":"03 Jul 1985",
+            "runtime":"116 min",
+            "genre":[
+               "Adventure",
+               "Comedy",
+               "Sci-Fi"
+            ],
+            "director":"Robert Zemeckis",
+            "writer":"Robert Zemeckis, Bob Gale",
+            "actors":"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+            "plot":"Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean time machine invented by a slightly mad scientist."
+         },
+         {
+            "id":16,
+            "price":20,
+            "title":"The Matrix",
+            "year":"1999",
+            "rated":"R",
+            "released":"31 Mar 1999",
+            "runtime":"136 min",
+            "genre":[
+               "Action",
+               "Sci-Fi"
+            ],
+            "director":"Lana Wachowski, Lilly Wachowski",
+            "writer":"Lilly Wachowski, Lana Wachowski",
+            "actors":"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+            "plot":"Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo."
+         },
+         {
+            "id":17,
+            "price":21,
+            "title":"Harry Potter and the Deathly Hallows",
+            "year":"2011",
+            "rated":"PG-13",
+            "released":"15 Jul 2011",
+            "runtime":"130 min",
+            "genre":[
+               "Adventure",
+               "Drama",
+               "Fantasy",
+               "Mystery"
+            ],
+            "director":"David Yates",
+            "writer":"Steve Kloves (screenplay), J.K. Rowling (novel)",
+            "actors":"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe",
+            "plot":"Harry, Ron, and Hermione continue their quest of finding and destroying the Dark Lords three remaining Horcruxes, the magical items responsible for his immortality."
+         },
+         {
+            "id":18,
+            "price":14,
+            "title":"Birds of Prey",
+            "year":"2002–2003",
+            "rated":"TV-14",
+            "released":"09 Oct 2002",
+            "runtime":"60 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Drama",
+               "Fantasy",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Laeta Kalogridis",
+            "actors":"Ashley Scott, Dina Meyer, Rachel Skarsten, Shemar Moore",
+            "plot":"New Gothams Undercover Superhero Batman has disappeared leaving behind a daughter from his long-time love Catwoman."
+         },
+         {
+            "id":19,
+            "price":18,
+            "title":"Avengers: Endgame",
+            "year":"2019",
+            "rated":"PG-13",
+            "released":"26 Apr 2019",
+            "runtime":"181 min",
+            "genre":[
+               "Action",
+               "Adventure",
+               "Drama",
+               "Sci-Fi"
+            ],
+            "director":"Anthony Russo, Joe Russo",
+            "writer":"Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos, Gamora & Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+            "actors":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+            "plot":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos actions and restore balance to the universe."
+         },
+         {
+            "id":20,
+            "price":23,
+            "title":"John Wick: Chapter 2",
+            "year":"2017",
+            "rated":"R",
+            "released":"10 Feb 2017",
+            "runtime":"122 min",
+            "genre":[
+               "Action",
+               "Crime",
+               "Thriller"
+            ],
+            "director":"Chad Stahelski",
+            "writer":"Derek Kolstad, Derek Kolstad (based on characters created by)",
+            "actors":"Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose",
+            "plot":"After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life."
+         }
+      ]
+   },
+   {
+      "id":21,
+      "folder":"documentary",
+      "items":[
+         {
+            "id":22,
+            "price":8,
+            "title":"Steve Jobs: The Lost Interview",
+            "year":"2012",
+            "rated":"Unrated",
+            "released":"06 Sep 2012",
+            "runtime":"70 min",
+            "genre":[
+               "Documentary"
+            ],
+            "director":"Paul Sen",
+            "writer":"Robert X. Cringely",
+            "actors":"Robert X. Cringely, Steve Jobs",
+            "plot":"A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple."
+         },
+         {
+            "id":23,
+            "price":8,
+            "title":"Elon Musk: The Real Life Iron Man",
+            "year":"2018",
+            "rated":"TV-PG",
+            "released":"04 Dec 2018",
+            "runtime":"71 min",
+            "genre":[
+               "Documentary",
+               "Biography"
+            ],
+            "director":"Sonia Anderson",
+            "writer":"Sonia Anderson",
+            "actors":"Daniela Albers, Julie Anderson Ankenbrandt, Richard Branson, Cary Cooper",
+            "plot":"Discover the meteoric rise of Elon Musk, the man who is transforming the way we think about travel technology through electric cars, the Hyperloop, and revolutionary ideas on how we live through artificial intelligence and colonizing Mars."
+         },
+         {
+            "id":24,
+            "price":8,
+            "title":"Woodstock",
+            "year":"1970",
+            "rated":"R",
+            "released":"26 Mar 1970",
+            "runtime":"184 min",
+            "genre":[
+               "Documentary",
+               "History",
+               "Music"
+            ],
+            "director":"Michael Wadleigh",
+            "writer":"NA",
+            "actors":"Richie Havens, Joan Baez, The Who, Sha-Na-Na",
+            "plot":"An intimate look at the Woodstock Music and Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
+         },
+         {
+            "id":25,
+            "price":8,
+            "title":"Kedi",
+            "year":"2016",
+            "rated":"Unrated",
+            "released":"10 Feb 2017",
+            "runtime":"79 min",
+            "genre":[
+               "Documentary"
+            ],
+            "director":"Ceyda Torun",
+            "writer":"NA",
+            "actors":"Yaman Barlas, Sari, Arzu Göl, Kemal Suncu",
+            "plot":"In the city of Istanbul, there are more than just human inhabitants. There are also the stray domestic cats of the city who live free but have complicated relationships with the people themselves. This film follows a selection of individual cats as they live their own lives in Istanbul with their own distinctive personalities."
+         },
+         {
+            "id":26,
+            "price":8,
+            "title":"Marvel 75 years: From Pulp to Pop!",
+            "year":"2014",
+            "rated":"Unrated",
+            "released":"04 Nov 2014",
+            "runtime":"42 min",
+            "genre":[
+               "Documentary",
+               "History"
+            ],
+            "director":"Zak Knutson",
+            "writer":"Laura Shields",
+            "actors":"Axel Alonso, Hayley Atwell, Gerry Conway, Louis D'Esposito",
+            "plot":"Emily Vancamp hosts this one of a kind experience showing the history and development of Marvel from the first comic book to the latest blockbuster hit."
+         }
+      ]
+   },
+   {
+      "id":27,
+      "folder":"music",
+      "items":[
+         {
+            "id":39,
+            "price":18,
+            "title":"Armin Only: Mirage",
+            "year":"2011",
+            "rated":"Unrated",
+            "released":"26 Apr 2011",
+            "runtime":"138 min",
+            "genre":[
+               "Documentary",
+               "Music"
+            ],
+            "director":"NA",
+            "writer":"NA",
+            "actors":"Armin van Buuren",
+            "plot":"Armin Only 2010 Mirage in Utrecht was the kick-off of the Armin Only 2010 world tour, with shows in over 15 countries on five continents."
+         },
+         {
+            "id":28,
+            "price":18,
+            "title":"AC/DC: Live at River Plate",
+            "year":"2009",
+            "rated":"Unrated",
+            "released":"11 Dec 2009",
+            "runtime":"60 min",
+            "genre":[
+               "Documentary",
+               "Music"
+            ],
+            "director":"David Mallet",
+            "writer":"NA",
+            "actors":"Angus Young, Malcolm Young, Brian Johnson, Cliff Williams",
+            "plot":"ACDC performs live at the River Plate."
+         },
+         {
+            "id":29,
+            "price":18,
+            "title":"Metallica Through the Never",
+            "year":"2013",
+            "rated":"R",
+            "released":"04 Oct 2013",
+            "runtime":"93 min",
+            "genre":[
+               "Music"
+            ],
+            "director":"Nimród Antal",
+            "writer":"Nimrod Antal (screenplay by), James Hetfield (screenplay by), Lars Ulrich (screenplay by), Kirk Hammett (screenplay by), Robert Trujillo (screenplay by)",
+            "actors":"Dane DeHaan, James Hetfield, Lars Ulrich, Kirk Hammett",
+            "plot":"Trip, a young roadie for Metallica, is sent on an urgent mission during the bands show. But what seems like a simple assignment turns into a surreal adventure."
+         }
+      ]
+   },
+   {
+      "id":30,
+      "folder":"animation",
+      "items":[
+         {
+            "id":31,
+            "price":5,
+            "title":"Rick and Morty",
+            "year":"2013–",
+            "rated":"TV-14",
+            "released":"02 Dec 2013",
+            "runtime":"23 min",
+            "genre":[
+               "Animation",
+               "Adventure",
+               "Comedy",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Dan Harmon, Justin Roiland",
+            "actors":"Justin Roiland, Chris Parnell, Spencer Grammer, Sarah Chalke",
+            "plot":"An animated series on adult-swim about the infinite adventures of Rick, a genius alcoholic and careless scientist, with his grandson Morty, a 14 year-old anxious boy who is not so smart, but always tries to lead his grandfather with his own morale compass."
+         },
+         {
+            "id":32,
+            "price":8,
+            "title":"Gravity Falls",
+            "year":"2012–2016",
+            "rated":"TV-Y7",
+            "released":"15 Jun 2012",
+            "runtime":"23 min",
+            "genre":[
+               "Animation",
+               "Adventure",
+               "Comedy",
+               "Family",
+               "Fantasy",
+               "Mystery",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Alex Hirsch",
+            "actors":"Jason Ritter, Alex Hirsch, Kristen Schaal, Linda Cardellini",
+            "plot":"When Dipper and Mabel Pines get sent to their great-uncle Stans shop in Gravity Falls, Oregon for the summer, they think it will be boring."
+         },
+         {
+            "id":33,
+            "price":5,
+            "title":"Adventure Time",
+            "year":"2010–2018",
+            "rated":"TV-PG",
+            "released":"05 Apr 2010",
+            "runtime":"11 min",
+            "genre":[
+               "Animation",
+               "Action",
+               "Adventure",
+               "Comedy",
+               "Family",
+               "Fantasy",
+               "Sci-Fi"
+            ],
+            "director":"NA",
+            "writer":"Pendleton Ward",
+            "actors":"John DiMaggio, Jeremy Shada, Tom Kenny, Hynden Walch",
+            "plot":"A 12-year-old boy and his best friend, wise 28-year-old dog with magical powers, go on a series of surreal adventures with each other in a remote future."
+         },
+         {
+            "id":34,
+            "price":5,
+            "title":"South Park",
+            "year":"1997–",
+            "rated":"TV-MA",
+            "released":"13 Aug 1997",
+            "runtime":"22 min",
+            "genre":[
+               "Animation",
+               "Comedy"
+            ],
+            "director":"NA",
+            "writer":"Trey Parker, Matt Stone, Brian Graden",
+            "actors":"Trey Parker, Matt Stone, Mona Marshall, April Stewart",
+            "plot":"The curious, adventure-seeking, fourth grade group of boys, Stan, Kyle, Cartman, and Kenny, all join in in buffoonish adventures that sometimes evolve nothing. Sometimes something that was simple at the start, turns out to get out of control. Everything is odd in the small mountain town, South Park, and the boys always find something to do with it."
+         },
+         {
+            "id":35,
+            "price":8,
+            "title":"Disenchantment",
+            "year":"2018–",
+            "rated":"TV-14",
+            "released":"17 Aug 2018",
+            "runtime":"30 min",
+            "genre":[
+               "Animation",
+               "Action",
+               "Adventure",
+               "Comedy",
+               "Fantasy"
+            ],
+            "director":"NA",
+            "writer":"Matt Groening, Josh Weinstein",
+            "actors":"Abbi Jacobson, Eric Andre, Nat Faxon, John DiMaggio",
+            "plot":"Princess Tiabeanie, Bean, is annoyed at her imminent arranged marriage to Prince Merkimer. Then she meets Luci, a demon, and Elfo, an elf, and things get rather exciting, and dangerous."
+         },
+         {
+            "id":36,
+            "price":5,
+            "title":"Brickleberry",
+            "year":"2012–2015",
+            "rated":"TV-MA",
+            "released":"NA",
+            "runtime":"22 min",
+            "genre":[
+               "Animation",
+               "Comedy"
+            ],
+            "director":"NA",
+            "writer":"Roger Black, Waco O'Guin",
+            "actors":"Daniel Tosh, Roger Black, David Herman, Tom Kenny",
+            "plot":"A group of never-do-well forest rangers are facing the shutdown of their National Park when a new ranger arrives to help transform them and save the park."
+         }
+      ]
+   }
+]
